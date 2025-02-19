@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 
 signed_in = [
+
   "ting",
   "sizhe",
   "Cameron",
@@ -10,6 +11,13 @@ signed_in = [
   "lc",
   "abdullah",
   "blabalabalablabkla"
+
+  "ting"
+  "sizhe"
+  "hellooooemi"
+  "lc"
+  "bella"
+
 ]
 
 
